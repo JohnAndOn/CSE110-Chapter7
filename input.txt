@@ -1,4 +1,5 @@
-Mary had a little lamb
-Whose fleece was white as snow.
-And everywhere that Mary went,
-The lamb was sure to go!
+12.5    6.3
+13.1    5.2
+18.7    4.4
+10.1    6.0
+9.3     8.4
