@@ -1,2 +1,4 @@
-32 54 67.5 29 35 80
-115 44.5 100 65
+Mary had a little lamb
+Whose fleece was white as snow.
+And everywhere that Mary went,
+The lamb was sure to go!
